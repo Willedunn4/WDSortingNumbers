@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wille\\source\\repos\\WDSortingNumbers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89F51E14-387A-498F-B851-EA90E25CD2AC}|WDSortingNumbers\\WDSortingNumbers.csproj|c:\\users\\wille\\source\\repos\\wdsortingnumbers\\wdsortingnumbers\\wdsortingnumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89F51E14-387A-498F-B851-EA90E25CD2AC}|WDSortingNumbers\\WDSortingNumbers.csproj|solutionrelative:wdsortingnumbers\\wdsortingnumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F51E14-387A-498F-B851-EA90E25CD2AC}|WDSortingNumbers\\WDSortingNumbers.csproj|c:\\users\\wille\\source\\repos\\wdsortingnumbers\\wdsortingnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89F51E14-387A-498F-B851-EA90E25CD2AC}|WDSortingNumbers\\WDSortingNumbers.csproj|solutionrelative:wdsortingnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WDSortingNumbers.cs",
+              "DocumentMoniker": "C:\\Users\\wille\\source\\repos\\WDSortingNumbers\\WDSortingNumbers\\WDSortingNumbers.cs",
+              "RelativeDocumentMoniker": "WDSortingNumbers\\WDSortingNumbers.cs",
+              "ToolTip": "C:\\Users\\wille\\source\\repos\\WDSortingNumbers\\WDSortingNumbers\\WDSortingNumbers.cs",
+              "RelativeToolTip": "WDSortingNumbers\\WDSortingNumbers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T01:28:51.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wille\\source\\repos\\WDSortingNumbers\\WDSortingNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "WDSortingNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\wille\\source\\repos\\WDSortingNumbers\\WDSortingNumbers\\Program.cs",
+              "RelativeToolTip": "WDSortingNumbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T01:27:21.667Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
